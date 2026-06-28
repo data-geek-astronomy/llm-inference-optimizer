@@ -1,7 +1,7 @@
 ---
 title: LLM Inference Optimizer
 emoji: ⚡
-colorFrom: violet
+colorFrom: purple
 colorTo: indigo
 sdk: gradio
 sdk_version: 5.9.1
